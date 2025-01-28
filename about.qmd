@@ -1,0 +1,23 @@
+---
+title: "About"
+---
+
+# About this Site
+
+This is an about me page
+
+```{python}
+
+```
+
+## Who am I
+
+A Graduate student in MSBA in UC Irvine Paul Merage Business School
+
+## What is my Mission
+
+Use my knowledge in data analytics to help bringing more profit to the sport industry back in China and make sports more popular and interesting in China.
+
+
+
+
